@@ -1,12 +1,13 @@
-### Olá, Eu sou o Pedro Grangeiro
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=100&width=435&lines=Ol%C3%A1!!!;Boas+vindas!)](https://git.io/typing-svg)
 
 
-- 🔭 Sou um desenvolvedor front e back-end
+- 💻 Desenvolvedor Front e Back end
+- 💻 Desenvolvedor Python
 - 🌱 Estudante de Ciência da Computação pela UERJ
-- 👯 Contate-me no e-mail: pedrop.grangeiro@gmail.com ou contato@hellopedrop.com
+
 
  <div style="float: center;">
   <a href="https://github.com/pedrograngeiro">
   
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrograngeiro&layout=compact&langs_count=7&theme=dracula"/>
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pedrograngeiro)](https://github.com/anuraghazra/github-readme-stats)
 </div>
