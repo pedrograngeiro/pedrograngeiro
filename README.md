@@ -10,4 +10,6 @@
   <a href="https://github.com/pedrograngeiro">
   
   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pedrograngeiro)](https://github.com/anuraghazra/github-readme-stats)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pedrograngeiro&hide_progress=true)
 </div>
+
